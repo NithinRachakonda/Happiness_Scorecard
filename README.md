@@ -3,7 +3,7 @@ This project explores the relationship between various socio-economic indicators
 
 ## Files Included
 - `LR_Happiness_Project.ipynb`: Main notebook with data analysis, modeling, diagnostics, and conclusions.
-- `Happiness_Cleaned.csv`: Cleaned dataset used for the analysis.
+- `Happiness_Cleaned.csv`: Cleaned dataset used for the analysis. The dataset has been created by manually collecting data from multiple sources.
 - `LR_Project_Report.pdf`: Final formatted project report summarizing methods and findings.
 
 ## Objectives
